@@ -1,2 +1,9 @@
 # 596Project
 STAT 596 COVID-19 Spatiotemporal Statistics Project 
+
+Our central research question asks: How do COVID-19 vaccination rates correlate with socioeconomic factors across California counties, and what patterns emerge when examining these relationships through a spatiotemporal lens? This question is particularly significant given California's diverse population and varied economic landscape, making it an ideal context for investigating health disparities.
+The COVID-19 pandemic has highlighted and exacerbated existing disparities in healthcare access and statewide regional outcomes. Previous studies have suggested links between socioeconomic status and health behaviors, including vaccination, but few have examined these relationships using fine-grained spatiotemporal data that captures both geographic and temporal dimensions of vaccine rollout. Understanding these patterns is crucial for improving public health responses and addressing equity concerns in future health emergencies.
+Spatiotemporal data provides unique advantages for analyzing this issue. By integrating time-series vaccination data with geospatial socioeconomic indicators, we can identify not only where disparities exist but also how they evolved throughout the vaccination campaign. This approach allows us to detect patterns that might be missed in purely statistical or purely geographic analyses.
+Our analysis stands apart through its integration of multiple data streams at different spatial scales. By combining ZIP code-level vaccination data with county-level socioeconomic indicators, we create a comprehensive picture of vaccination patterns that accounts for both fine-grained local variation and broader regional trends. Additionally, our use of advanced spatial statistical techniques, including geographically weighted regression and spatial autocorrelation analysis, provides deeper insights than conventional statistical approaches.
+
+
